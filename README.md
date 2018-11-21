@@ -8,6 +8,6 @@ Dataset is collected from TripAdvidor website (https://www.tripadvisor.co.id/). 
 Number of positive reviews: 100 <br>
 Number of negative reviews: 100 <br> 
 
-The dataset may be used freely, but if you want to publish paper/publication using this dataset, please cite this publication: <br>
+The dataset may be used freely, but if you want to publish paper/publication using this dataset, please cite this publication: <br><br>
 Fanissa, S., Fauzi, M.A. and Adinugroho, S., 2018. Analisis Sentimen Pariwisata di Kota Malang Menggunakan Metode Naive Bayes dan Seleksi Fitur Query Expansion Ranking. Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer e-ISSN, 2548, p.964X.
 <br>https://www.researchgate.net/profile/Mochammad_Fauzi/publication/322959527_Analisis_Sentimen_Pariwisata_di_Kota_Malang_Menggunakan_Metode_Naive_Bayes_dan_Seleksi_Fitur_Query_Expansion_Ranking/links/5a79c03ba6fdcc4ffe92724d/Analisis-Sentimen-Pariwisata-di-Kota-Malang-Menggunakan-Metode-Naive-Bayes-dan-Seleksi-Fitur-Query-Expansion-Ranking.pdf
